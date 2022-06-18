@@ -1,4 +1,4 @@
-# Image Upload
+# Image Upload UI
 
 ## Technologies Used
 - Frontend - HTML, Tailwind CSS, AlpineJS
