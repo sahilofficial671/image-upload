@@ -30,8 +30,9 @@
 **For Production:** `composer install --no-dev`
 
 #### 2. Add Environmental Variales
-CLIENT_ID=
-UPLOAD_URL=
+* CLIENT_URL=
+* CLIENT_ID=
+* UPLOAD_URL=
 
 ## Run Project :rocket:
 `php artisan serve`
